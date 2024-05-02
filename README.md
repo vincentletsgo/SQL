@@ -2,14 +2,14 @@
 > Read this first.
 > 
 
-# Vincent's Sample SQL Portfolio
+# Explore Examples of My SQL Projects
 
-## Welcome to my SQL Portfolio!! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
+## Welcome to my SQL portfolio! Within this repository, you'll find a collection of SQL examples that showcase my expertise in database management and manipulation. Feel free to browse through them, and don't hesitate to reach out if you have any questions or inquiries.
 
 _A little about me:_
 
-I'm a resourceful and strategic digital marketing specialist with over 4 years of experience in crafting and executing successful digital marketing campaigns, A/B testing, and website optimizing. Consistently produce high-quality content while ensuring brand voice consistency and industry compliance, aiming to leverage these skills to contribute to your success. 
+I am a seasoned digital marketing specialist with a strategic mindset, boasting over six years of experience in various facets of marketing, including product marketing, event management, and data analytics. Throughout my career, I have excelled in crafting and executing successful digital marketing campaigns, conducting A/B testing, and optimizing websites for enhanced performance. My commitment to producing high-quality content is unwavering, always ensuring brand voice consistency and compliance with industry standards. I am eager to leverage my skills and experience to contribute to the success of your projects.
 
-I have a unique liking for business, finance, and technology, this allows me to leverage these and my marketing acumen to craft unique marketing initiatives. 
+With a keen interest in business, finance, and technology, I bring a unique perspective to marketing initiatives. By combining my marketing acumen with my knowledge of these domains, I specialize in developing innovative and effective marketing strategies.
 
-Check out my website and other portfolio work here: [go here!](https://vincentletsgo.com/bio)
+Check out my website and other portfolio work here: [go here!](https://vincentletsgo.com/)
